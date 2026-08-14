@@ -40,7 +40,7 @@ eq.dmn[cDmn].prop.at(PhysicalProperyType::inverse_darcy_permeability)
 
 A maintainer has confirmed on the community forum that the `0.0` was set
 intentionally, originally in the context of an unimplemented valve / FSI-contact
-case, but that the reasoning is undocumented. Forum thread: <ADD LINK>
+case, but that the reasoning is undocumented. Forum thread(https://simtk.org/plugins/phpBB/viewtopicPhpbb.php?f=188&t=26305&p=0&start=0&view=&sid=13249f51ea63f1610756c4aeaa95f4f2)
 
 ## Version and environment
 
